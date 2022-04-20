@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boluwatife
 - 👀 I’m interested in Coding, Playing Video Games and Watching Basketball
-- 🌱 I’m currently learning NodeJS, Express and MongoDB
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ...
 
